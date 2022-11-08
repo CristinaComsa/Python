@@ -82,6 +82,7 @@ del cerc.raza
 cerc.raza
 cerc.descrie()
 
+# kjfjdgajdfg;ag
 
 
 
